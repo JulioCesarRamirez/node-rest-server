@@ -1,3 +1,7 @@
 node_modules/
 .DS_Store
 */.DS_Store
+upload/productos/*
+upload/usuarios/*
+!upload/usuarios/.gitkeep
+!upload/productos/.gitkeep
